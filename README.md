@@ -1,5 +1,8 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/3705409?v=4" align="center" height="200" width="200" />
+  
+<img src="[https://avatars.githubusercontent.com/u/3705409?v=4](https://media.licdn.com/dms/image/v2/D4E0BAQHPROFm8OXtnA/company-logo_100_100/company-logo_100_100/0/1721287731024/hiretrend_logo?e=1741219200&v=beta&t=tyM52HiCgG3T7mbsFVr7gfpTmsSwIC8-af8xqMPslQQ)" align="center" height="200" width="200" />
+  
 </div>  
   
 
@@ -71,7 +74,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/lucas-duchesne-33572210b" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-duchesne-33572210b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/l-duchesne" target="_blank">
