@@ -1,10 +1,14 @@
 <div align="center">
+  <img src="./Hiretrend-noir (1).png" align="center" />
+  </div>  
+
+
+<div align="center">
 <img src="https://avatars.githubusercontent.com/u/3705409?v=4" align="center" height="200" width="200" />
   
-<img src="[https://avatars.githubusercontent.com/u/3705409?v=4](https://media.licdn.com/dms/image/v2/D4E0BAQHPROFm8OXtnA/company-logo_100_100/company-logo_100_100/0/1721287731024/hiretrend_logo?e=1741219200&v=beta&t=tyM52HiCgG3T7mbsFVr7gfpTmsSwIC8-af8xqMPslQQ)" align="center" height="200" width="200" />
+
   
 </div>  
-  
 
 ### <div align="center">I'm Duchesne Lucas, a co-funder at Hiretrend 👨‍💻</div>  
   
