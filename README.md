@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Hiretrend-noir (1).png" align="center" />
+  
   </div>  
 
 
@@ -10,10 +10,10 @@
   
 </div>  
 
-### <div align="center">I'm Duchesne Lucas, a co-funder at Hiretrend 👨‍💻</div>  
+### <div align="center">I'm Duchesne Lucas, a senior bavkend developer👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Hiretrend](https://hiretrend.io/)  
+- 🔭 I’m currently open to wrok
   
 
 - 🧗 Also a Rock climber   
