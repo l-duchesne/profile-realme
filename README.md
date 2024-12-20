@@ -10,7 +10,7 @@
   
 </div>  
 
-### <div align="center">I'm Duchesne Lucas, a senior bavkend developer👨‍💻</div>  
+### <div align="center">I'm Duchesne Lucas, a senior backend developer👨‍💻</div>  
   
 
 - 🔭 I’m currently open to wrok
